@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Take a look at my Protofolio link : https://lnkd.in/eicHzwy9<br><br>📫 How to reach me laith2000hrany@gmail.com</p>
+<p align="left">👨‍💻 Take a look at my Protofolio link :https://laith20hrany.github.io/Protofolio/<br><br>📫 How to reach me laith2000hrany@gmail.com</p>
 
 ###
 
